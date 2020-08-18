@@ -21,11 +21,16 @@ List of academic institutes/companies working on computer-based digital patholog
 | Name | Country (headquarter) | Link |
 | :---| --- | --- |
 | TissueGnostics | Austria | https://www.tissuegnostics.com/ |
+|VISIOPHARM| Denmark|https://visiopharm.com/|
 | aiforia        | Finland | https://www.aiforia.com/ |
 | NEAGEN         | Finland |http://www.neagen.com/|
 | 3DHISTECH      | Hungary | https://www.3dhistech.com/ |
+| nucleai        | Israel  | https://www.nucleaimd.com/|
 | CIRDAN         | Ireland | https://www.cirdan.com/ |
 | ContextVision  | Sweden  | https://www.contextvision.com/ |
+| SECTRA         | Sweden  | https://medical.sectra.com/|
+| PHLIPS         | UK      | https://www.philips.co.uk/healthcare/solutions/pathology|
 | Indica Labs    | USA     | https://www.indicalab.com/ |
 | inspirata      | USA     |  https://www.inspirata.com/solutions/digital-pathology/|
 | mTuitive       | USA     |https://www.mtuitive.com/pathology.html|
+| Roche          | USA     |https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
