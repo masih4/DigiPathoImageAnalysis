@@ -7,9 +7,11 @@ List of academic institutes/companies working on computer-based digital patholog
 
 | Name | University / Institute | Country | Link |
 | :---| --- | --- |  --- |
-| MIA Research Group        | Simon Fraser University |Canada | https://www.medicalimageanalysis.com/ |
-| Tissue Image Analysis Lab | Warwick University      |UK     | https://warwick.ac.uk/fac/sci/dcs/research/tia |
-| Mahmood Lab               | Harvard Medical School  | USA   | https://faisal.ai/|
+| MIA Research Group                                          | Simon Fraser University        | Canada      | https://www.medicalimageanalysis.com/ |
+| Computational Pathology Research Group                      | Radboud University             | Netherlands |http://www.diagnijmegen.nl/index.php/Digital_Pathology|
+| Tissue Image Analysis Lab                                   | Warwick University             | UK          | https://warwick.ac.uk/fac/sci/dcs/research/tia |
+| Mahmood Lab                                                 | Harvard Medical School         | USA         | https://faisal.ai/|
+| Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University| USA         |https://engineering.case.edu/centers/ccipd/|
 
 
 
