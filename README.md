@@ -18,6 +18,14 @@ List of academic institutes/companies working on computer-based digital patholog
 
 
 ## List of Companies
-| Name | Country | Link |
+| Name | Country (headquarter) | Link |
 | :---| --- | --- |
 | TissueGnostics | Austria | https://www.tissuegnostics.com/ |
+| aiforia        | Finland | https://www.aiforia.com/ |
+| NEAGEN         | Finland |http://www.neagen.com/|
+| 3DHISTECH      | Hungary | https://www.3dhistech.com/ |
+| CIRDAN         | Ireland | https://www.cirdan.com/ |
+| ContextVision  | Sweden  | https://www.contextvision.com/ |
+| Indica Labs    | USA     | https://www.indicalab.com/ |
+| inspirata      | USA     |  https://www.inspirata.com/solutions/digital-pathology/|
+| mTuitive       | USA     |https://www.mtuitive.com/pathology.html|
