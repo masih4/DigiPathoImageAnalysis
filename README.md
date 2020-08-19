@@ -16,6 +16,7 @@ List of academic institutes/companies working on computer-based digital patholog
 | YUan Lab                                                    | The Institute of Cancer Research | UK         | http://yuanlab.org/ |
 | Mahmood Lab                                                 | Harvard Medical School           | USA        | https://faisal.ai/|
 | Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University  | USA        |https://engineering.case.edu/centers/ccipd/|
+| Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center  | USA        | http://thomasfuchslab.org/|
 
 
 
