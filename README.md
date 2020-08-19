@@ -38,3 +38,5 @@ List of academic institutes/companies working on computer-based digital patholog
 | inspirata      | USA     |  https://www.inspirata.com/solutions/digital-pathology/|
 | mTuitive       | USA     |https://www.mtuitive.com/pathology.html|
 | Roche          | USA     |https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
+| PAIGE          | USA     |https://paige.ai/|
+
