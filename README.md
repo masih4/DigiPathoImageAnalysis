@@ -11,6 +11,7 @@ List of academic institutes/companies working on computer-based digital patholog
 | Kimia Lab                                                   | University of Waterloo           | Canada     |https://kimialab.uwaterloo.ca/kimia/|
 | MIA Research Group                                          | Simon Fraser University          | Canada     | https://www.medicalimageanalysis.com/ |
 | Computational Pathology Research Group                      | Radboud University               | Netherlands|http://www.diagnijmegen.nl/index.php/Digital_Pathology|
+| Wählby Lab                                                  | Uppsala University               | Sweden     |http://user.it.uu.se/~cli05194/|
 | Tissue Image Analysis Lab                                   | Warwick University               | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
 | YUan Lab                                                    | The Institute of Cancer Research | UK         | http://yuanlab.org/ |
 | Mahmood Lab                                                 | Harvard Medical School           | USA        | https://faisal.ai/|
