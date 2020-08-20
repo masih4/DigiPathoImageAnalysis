@@ -5,7 +5,8 @@ List of academic institutes/companies working on computer-based digital patholog
 ![Project Image](https://github.com/masih4/DigiPathoImageAnalysis/blob/master/project_image.jpg)
 
 
-## List of Academic groups
+## List of Academic groups 
+(sorted by country name)
 
 | Name | University / Institute | Country | Link |
 | :---| --- | --- |  --- |
@@ -29,6 +30,8 @@ List of academic institutes/companies working on computer-based digital patholog
 
 
 ## List of Companies
+(sorted by country name)
+
 | Name | Country (headquarter) | Link |
 | :---| --- | --- |
 | TissueGnostics | Austria | https://www.tissuegnostics.com/ |
@@ -47,3 +50,4 @@ List of academic institutes/companies working on computer-based digital patholog
 | Roche          | USA     |https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
 | PAIGE          | USA     |https://paige.ai/|
 
+Maintained by Amirreza Mahbod
