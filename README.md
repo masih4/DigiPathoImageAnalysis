@@ -14,7 +14,7 @@ List of academic institutes/companies working on computer-based digital patholog
 | Kimia Lab                                                   | University of Waterloo                  | Canada     |https://kimialab.uwaterloo.ca/kimia/|
 | Medical Image Analysis Research Group                       | Simon Fraser University                 | Canada     | https://www.medicalimageanalysis.com/ |
 | Computational Pathology Research Group                      | Radboud University                      | Netherlands|http://www.diagnijmegen.nl/index.php/Digital_Pathology|
-|Biomedical Computer Vision Research Group| Heidelberg University| Germany|http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
+| Biomedical Computer Vision Research Group                   | Heidelberg University                   | Germany    |http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
 | Quantitative Imaging and Informatics Laboratory             | Sejong University                       | South Korea|http://www.kwaklab.net/|
 | Wählby Lab                                                  | Uppsala University                      | Sweden     |http://user.it.uu.se/~cli05194/|
 | Tissue Image Analysis Lab                                   | Warwick University                      | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
