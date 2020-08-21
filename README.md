@@ -46,12 +46,14 @@ List of academic institutes/companies working on computer-based digital patholog
 | SECTRA         | Sweden      | https://medical.sectra.com/|
 | IBM Research   | Switzerland |https://www.zurich.ibm.com/healthcare/|
 | PHLIPS         | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
+| Panakeia        | UK          |https://www.panakeia.ai|
 | Indica Labs    | USA         | https://www.indicalab.com/ |
 | inspirata      | USA         |  https://www.inspirata.com/solutions/digital-pathology/|
 | mTuitive       | USA         |https://www.mtuitive.com/pathology.html|
 | Roche          | USA         |https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
 | PAIGE          | USA         |https://paige.ai/|
-|Panakeia        | UK          |https://www.panakeia.ai|
+| PathAI          | USA         |https://www.pathai.com/|
+
 
 
 Maintained by Amirreza Mahbod and Navid Alemi Koohbanani
