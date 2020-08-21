@@ -57,4 +57,7 @@ List of academic institutes/companies working on computer-based digital patholog
 
 
 
-Maintained by Amirreza Mahbod and Navid Alemi Koohbanani
+Maintained by:
+* [Amirreza Mahbod](https://www.kth.se/profile/amahbod) 
+* [Navid Alemi Koohbanani](https://warwick.ac.uk/study/csde/gsp/eportfolio/directory/pg/u1694087/) 
+* [Simon Graham](https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/graham/) 
