@@ -51,6 +51,7 @@ List of academic institutes/companies working on computer-based digital patholog
 | mTuitive       | USA         |https://www.mtuitive.com/pathology.html|
 | Roche          | USA         |https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
 | PAIGE          | USA         |https://paige.ai/|
+|Panakeia        | UK          |https://www.panakeia.ai|
 
 
 Maintained by Amirreza Mahbod and Navid Alemi Koohbanani
