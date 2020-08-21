@@ -53,4 +53,4 @@ List of academic institutes/companies working on computer-based digital patholog
 | PAIGE          | USA         |https://paige.ai/|
 
 
-Maintained by Amirreza Mahbod
+Maintained by Amirreza Mahbod and Navid Alemi Koohbanani
