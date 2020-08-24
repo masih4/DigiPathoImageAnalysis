@@ -20,6 +20,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Quantitative Imaging and Informatics Laboratory             | Sejong University                     | South Korea|http://www.kwaklab.net/|
 | VISILAB                                                     | University of Castilla-La Mancha      | Spain      |https://visilab.etsii.uclm.es/?page_id=39|
 | Wählby Lab                                                  | Uppsala University                    | Sweden     |http://user.it.uu.se/~cli05194/|
+| Digital Pathology                                           | Linköping University                  | Sweden     |https://liu.se/en/research/digital-pathology|
 | Tissue Image Analysis Lab                                   | Warwick University                    | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
 | YUan Lab                                                    | The Institute of Cancer Research      | UK         | http://yuanlab.org/ |
 | Mahmood Lab                                                 | Harvard Medical School                | USA        | https://faisal.ai/|
