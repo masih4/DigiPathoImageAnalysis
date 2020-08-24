@@ -1,7 +1,7 @@
 # DigiPathoImageAnalysis
 
 
-List of academic institutes/companies working on computer-based digital pathology image analysis 
+## List of academic institutes/companies working on computer-based digital pathology image analysis 
 ![Project Image](https://github.com/masih4/DigiPathoImageAnalysis/blob/master/project_image.jpg)
 
 
@@ -10,18 +10,19 @@ List of academic institutes/companies working on computer-based digital patholog
 
 | Name | University / Institute | Country | Link |
 | :---| --- | --- |  --- |
-| DeepNucleiDetection                                         | Medical University of Vienna            | Austria    | https://sites.google.com/view/deepnucleidetection/news|
-| Kimia Lab                                                   | University of Waterloo                  | Canada     |https://kimialab.uwaterloo.ca/kimia/|
-| Medical Image Analysis Research Group                       | Simon Fraser University                 | Canada     | https://www.medicalimageanalysis.com/ |
-| Computational Pathology Research Group                      | Radboud University                      | Netherlands|http://www.diagnijmegen.nl/index.php/Digital_Pathology|
-| Biomedical Computer Vision Research Group                   | Heidelberg University                   | Germany    |http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
-| Quantitative Imaging and Informatics Laboratory             | Sejong University                       | South Korea|http://www.kwaklab.net/|
-| Wählby Lab                                                  | Uppsala University                      | Sweden     |http://user.it.uu.se/~cli05194/|
-| Tissue Image Analysis Lab                                   | Warwick University                      | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
-| YUan Lab                                                    | The Institute of Cancer Research        | UK         | http://yuanlab.org/ |
-| Mahmood Lab                                                 | Harvard Medical School                  | USA        | https://faisal.ai/|
-| Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University         | USA        |https://engineering.case.edu/centers/ccipd/|
-| Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center  | USA        | http://thomasfuchslab.org/|
+| DeepNucleiDetection                                         | Medical University of Vienna          | Austria    | https://sites.google.com/view/deepnucleidetection/news|
+| Kimia Lab                                                   | University of Waterloo                | Canada     |https://kimialab.uwaterloo.ca/kimia/|
+| Medical Image Analysis Research Group                       | Simon Fraser University               | Canada     | https://www.medicalimageanalysis.com/ |
+| Computational Pathology Research Group                      | Radboud University                    | Netherlands|http://www.diagnijmegen.nl/index.php/Digital_Pathology|
+| Biomedical Computer Vision Research Group                   | Heidelberg University                 | Germany    |http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
+| Quantitative Imaging and Informatics Laboratory             | Sejong University                     | South Korea|http://www.kwaklab.net/|
+| Wählby Lab                                                  | Uppsala University                    | Sweden     |http://user.it.uu.se/~cli05194/|
+| Tissue Image Analysis Lab                                   | Warwick University                    | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
+| YUan Lab                                                    | The Institute of Cancer Research      | UK         | http://yuanlab.org/ |
+| Mahmood Lab                                                 | Harvard Medical School                | USA        | https://faisal.ai/|
+| Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University       | USA        |https://engineering.case.edu/centers/ccipd/|
+| Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center| USA        | http://thomasfuchslab.org/|
+| Sarder Lab                                                  | University at Buffalo                 | USA        | https://www.acsu.buffalo.edu/~pinakisa/index.html|
 
 
 
@@ -58,6 +59,6 @@ List of academic institutes/companies working on computer-based digital patholog
 
 
 Maintained by:
-* [Amirreza Mahbod](https://www.kth.se/profile/amahbod) 
+* [Amirreza Mahbod](https://www.kth.se/profile/amahbod) (contact: amirreza.mahbod@meduniwien.ac.at)
 * [Navid Alemi Koohbanani](https://warwick.ac.uk/study/csde/gsp/eportfolio/directory/pg/u1694087/) 
 * [Simon Graham](https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/graham/) 
