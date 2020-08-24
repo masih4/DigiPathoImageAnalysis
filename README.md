@@ -7,7 +7,7 @@ To help us to complete/update the list please send us a pull request or write th
 ![Project Image](https://github.com/masih4/DigiPathoImageAnalysis/blob/master/project_image.jpg)
 
 
-## List of Academic groups 
+## List of Academic Groups 
 (sorted by country name)
 
 | Name | University / Institute | Country | Link |
