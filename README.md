@@ -18,6 +18,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Computational Pathology Research Group                      | Radboud University Medical Center     | Netherlands| https://www.computationalpathologygroup.eu/ |
 | Biomedical Computer Vision Research Group                   | Heidelberg University                 | Germany    |http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
 | Quantitative Imaging and Informatics Laboratory             | Sejong University                     | South Korea|http://www.kwaklab.net/|
+| VISILAB                                                     | University of Castilla-La Mancha      | Spain      |https://visilab.etsii.uclm.es/?page_id=39|
 | Wählby Lab                                                  | Uppsala University                    | Sweden     |http://user.it.uu.se/~cli05194/|
 | Tissue Image Analysis Lab                                   | Warwick University                    | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
 | YUan Lab                                                    | The Institute of Cancer Research      | UK         | http://yuanlab.org/ |
