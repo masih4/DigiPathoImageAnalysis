@@ -42,6 +42,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Name | Country (headquarter) | Link |
 | :---| --- | --- |
 | TissueGnostics | Austria | https://www.tissuegnostics.com/ |
+| KML Vision     | Austria | https://www.kmlvision.com/ |
 |VISIOPHARM| Denmark|https://visiopharm.com/|
 | aiforia        | Finland     | https://www.aiforia.com/ |
 | NEAGEN         | Finland     |http://www.neagen.com/|
