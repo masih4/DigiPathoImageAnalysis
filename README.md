@@ -12,23 +12,23 @@ To help us to complete/update the list please send us a pull request or write th
 
 | Name | University / Institute | Country | Link |
 | :---| --- | --- |  --- |
-| DeepNucleiDetection                                         | Medical University of Vienna               | Austria    | https://sites.google.com/view/deepnucleidetection/home|
-| Kimia Lab                                                   | University of Waterloo                     | Canada     | https://kimialab.uwaterloo.ca/kimia/|
-| Medical Image Analysis Research Group                       | Simon Fraser University                    | Canada     | https://www.medicalimageanalysis.com/ |
-| Centre for Computational Biology                            | MINES ParisTech                            | France     | http://cbio.mines-paristech.fr/welcome-to-the-cbio-wiki |
-| Institut de Biologie de l'École Normale Supérieure          | Computational Bioimaging and Bioinformatics| France     |https://www.ibens.ens.fr/spip.php?rubrique47 |
-| Biomedical Computer Vision Research Group                   | Heidelberg University                      | Germany    | http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
-| Computational Pathology Research Group                      | Radboud University Medical Center          | Netherlands| https://www.computationalpathologygroup.eu/ |
-| Quantitative Imaging and Informatics Laboratory             | Sejong University                          | South Korea| http://www.kwaklab.net/|
-| VISILAB                                                     | University of Castilla-La Mancha           | Spain      | https://visilab.etsii.uclm.es/?page_id=39|
-| Wählby Lab                                                  | Uppsala University                         | Sweden     | http://user.it.uu.se/~cli05194/|
-| Digital Pathology                                           | Linköping University                       | Sweden     | https://liu.se/en/research/digital-pathology|
-| Tissue Image Analysis Lab                                   | Warwick University                         | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
-| YUan Lab                                                    | The Institute of Cancer Research           | UK         | http://yuanlab.org/ |
-| Mahmood Lab                                                 | Harvard Medical School                     | USA        | https://faisal.ai/|
-| Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University            | USA        | https://engineering.case.edu/centers/ccipd/|
-| Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center     | USA        | http://thomasfuchslab.org/|
-| Sarder Lab                                                  | University at Buffalo                      | USA        | https://www.acsu.buffalo.edu/~pinakisa/index.html|
+| DeepNucleiDetection                                         | Medical University of Vienna                      | Austria    | https://sites.google.com/view/deepnucleidetection/home|
+| Kimia Lab                                                   | University of Waterloo                            | Canada     | https://kimialab.uwaterloo.ca/kimia/|
+| Medical Image Analysis Research Group                       | Simon Fraser University                           | Canada     | https://www.medicalimageanalysis.com/ |
+| Centre for Computational Biology                            | MINES ParisTech                                   | France     | http://cbio.mines-paristech.fr/welcome-to-the-cbio-wiki |
+| Computational Bioimaging and Bioinformatics                 | Institut de Biologie de l'École Normale Supérieure| France     |https://www.ibens.ens.fr/spip.php?rubrique47 |
+| Biomedical Computer Vision Research Group                   | Heidelberg University                             | Germany    | http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
+| Computational Pathology Research Group                      | Radboud University Medical Center                 | Netherlands| https://www.computationalpathologygroup.eu/ |
+| Quantitative Imaging and Informatics Laboratory             | Sejong University                                 | South Korea| http://www.kwaklab.net/|
+| VISILAB                                                     | University of Castilla-La Mancha                  | Spain      | https://visilab.etsii.uclm.es/?page_id=39|
+| Wählby Lab                                                  | Uppsala University                                | Sweden     | http://user.it.uu.se/~cli05194/|
+| Digital Pathology                                           | Linköping University                              | Sweden     | https://liu.se/en/research/digital-pathology|
+| Tissue Image Analysis Lab                                   | Warwick University                                | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
+| YUan Lab                                                    | The Institute of Cancer Research                  | UK         | http://yuanlab.org/ |
+| Mahmood Lab                                                 | Harvard Medical School                            | USA        | https://faisal.ai/|
+| Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University                   | USA        | https://engineering.case.edu/centers/ccipd/|
+| Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center            | USA        | http://thomasfuchslab.org/|
+| Sarder Lab                                                  | University at Buffalo                             | USA        | https://www.acsu.buffalo.edu/~pinakisa/index.html|
 
 
 
