@@ -47,22 +47,23 @@ To help us to complete/update the list please send us a pull request or write th
 | KML Vision     | Austria | https://www.kmlvision.com/ |
 |VISIOPHARM| Denmark|https://visiopharm.com/|
 | aiforia        | Finland     | https://www.aiforia.com/ |
-| NEAGEN         | Finland     |http://www.neagen.com/|
+| NEAGEN         | Finland     | http://www.neagen.com/|
+| arivis         | Germany     | https://www.arivis.com/|
 | 3DHISTECH      | Hungary     | https://www.3dhistech.com/ |
 | nucleai        | Israel      | https://www.nucleaimd.com/|
 | CIRDAN         | Ireland     | https://www.cirdan.com/ |
 | ContextVision  | Sweden      | https://www.contextvision.com/ |
 | SECTRA         | Sweden      | https://medical.sectra.com/|
-| IBM Research   | Switzerland |https://www.zurich.ibm.com/healthcare/|
+| IBM Research   | Switzerland | https://www.zurich.ibm.com/healthcare/|
 | Philips        | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
-| Panakeia       | UK          |https://www.panakeia.ai|
+| Panakeia       | UK          | https://www.panakeia.ai|
 | Indica Labs    | USA         | https://www.indicalab.com/ |
-| inspirata      | USA         |  https://www.inspirata.com/solutions/digital-pathology/|
-| mTuitive       | USA         |https://www.mtuitive.com/pathology.html|
-| Roche          | USA         |https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
-| PAIGE          | USA         |https://paige.ai/|
-| PathAI         | USA         |https://www.pathai.com/|
-| Proscia        | USA         |https://proscia.com/|
+| inspirata      | USA         | https://www.inspirata.com/solutions/digital-pathology/|
+| mTuitive       | USA         | https://www.mtuitive.com/pathology.html|
+| Roche          | USA         | https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
+| PAIGE          | USA         | https://paige.ai/|
+| PathAI         | USA         | https://www.pathai.com/|
+| Proscia        | USA         | https://proscia.com/|
 
 
 
