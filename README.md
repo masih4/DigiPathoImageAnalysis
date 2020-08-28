@@ -24,6 +24,7 @@ To help us to complete/update the list please send us a pull request or write th
 | VISILAB                                                     | University of Castilla-La Mancha                  | Spain      | https://visilab.etsii.uclm.es/?page_id=39|
 | Wählby Lab                                                  | Uppsala University                                | Sweden     | http://user.it.uu.se/~cli05194/|
 | Digital Pathology                                           | Linköping University                              | Sweden     | https://liu.se/en/research/digital-pathology|
+| Institute of Pathology                                      | University of Bern                                | Switzerland| https://www.pathology.unibe.ch/research/index_eng.html|
 | Tissue Image Analysis Lab                                   | Warwick University                                | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
 | YUan Lab                                                    | The Institute of Cancer Research                  | UK         | http://yuanlab.org/ |
 | Mahmood Lab                                                 | Harvard Medical School                            | USA        | https://faisal.ai/|
