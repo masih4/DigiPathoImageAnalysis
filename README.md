@@ -66,6 +66,7 @@ To help us to complete/update the list please send us a pull request or write th
 | PathAI              | USA         | https://www.pathai.com/|
 | Proscia             | USA         | https://proscia.com/|
 | Pixel Scientia Labs | USA         | https://pixelscientia.com/pathology.html|
+| Tempus              | USA         | https://www.tempus.com/|
 
 
 
