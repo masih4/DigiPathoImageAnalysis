@@ -27,6 +27,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Institute of Pathology                                      | University of Bern                                | Switzerland| https://www.pathology.unibe.ch/research/index_eng.html|
 | Tissue Image Analysis Lab                                   | Warwick University                                | UK         | https://warwick.ac.uk/fac/sci/dcs/research/tia |
 | YUan Lab                                                    | The Institute of Cancer Research                  | UK         | http://yuanlab.org/ |
+| Biomedical Image Analysis Research                          | University of London                              | UK         | http://www.staff.city.ac.uk/~sbbk034/research.php?idMem=research |
 | Mahmood Lab                                                 | Harvard Medical School                            | USA        | https://faisal.ai/|
 | Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University                   | USA        | https://engineering.case.edu/centers/ccipd/|
 | Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center            | USA        | http://thomasfuchslab.org/|
