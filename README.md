@@ -50,10 +50,18 @@ To help us to complete/update the list please send us a pull request or write th
 | VISIOPHARM          | Denmark     |https://visiopharm.com/|
 | aiforia             | Finland     | https://www.aiforia.com/ |
 | NEAGEN              | Finland     | http://www.neagen.com/|
+| Primaa              | France      | https://www.primaalab.com/#home |
+| Aignostics          | Germany     | http://www.aignostics.com/|
 | arivis              | Germany     | https://www.arivis.com/|
+| MindPeak            | Germany     | https://www.mindpeak.ai/|
 | 3DHISTECH           | Hungary     | https://www.3dhistech.com/ |
-| nucleai             | Israel      | https://www.nucleaimd.com/|
+| Deciphex            | Ireland     | https://deciphex.com/#home|
 | CIRDAN              | Ireland     | https://www.cirdan.com/ |
+| Ibex                | Israel      | https://ibex-ai.com/|
+| DeePathology        | Israel      | https://deepathology.ai/|
+| nucleai             | Israel      | https://www.nucleaimd.com/|
+| Medmain             | Japan       | https://en.medmain.com/ |
+| Qritive             | Singapore   | https://www.qritive.com/ |
 | ContextVision       | Sweden      | https://www.contextvision.com/ |
 | SECTRA              | Sweden      | https://medical.sectra.com/|
 | IBM Research        | Switzerland | https://www.zurich.ibm.com/healthcare/|
@@ -68,6 +76,10 @@ To help us to complete/update the list please send us a pull request or write th
 | Proscia             | USA         | https://proscia.com/|
 | Pixel Scientia Labs | USA         | https://pixelscientia.com/pathology.html|
 | Tempus              | USA         | https://www.tempus.com/|
+| Deep Lens           | USA         | https://www.deeplens.ai/ |
+| Techcyte            | USA         | https://techcyte.com/ |
+| Crosscope           | USA         | https://www.crosscope.com/ |
+
 
 
 
