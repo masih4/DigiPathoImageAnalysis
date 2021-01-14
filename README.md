@@ -18,6 +18,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Centre for Computational Biology                            | MINES ParisTech                                   | France     | http://cbio.mines-paristech.fr/welcome-to-the-cbio-wiki |
 | Computational Bioimaging and Bioinformatics                 | Institut de Biologie de l'École Normale Supérieure| France     |https://www.ibens.ens.fr/spip.php?rubrique47 |
 | Biomedical Computer Vision Research Group                   | Heidelberg University                             | Germany    | http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
+| Microscopy Image Analysis(MIA)                              | Fraunhofer Institute for Integrated Circuits IIS  | Germany    | https://www.iis.fraunhofer.de/en/ff/sse/health/medical-image-analysis/mikroskopie/digitale-pathologie.html|
 | Computational Pathology Research Group                      | Radboud University Medical Center                 | Netherlands| https://www.computationalpathologygroup.eu/ |
 | Medical Image Analysis                                      | Eindhoven University of Technology                | Netherlands| https://research.tue.nl/en/organisations/medical-image-analysis |
 | Quantitative Imaging and Informatics Laboratory             | Sejong University                                 | South Korea| http://www.kwaklab.net/|
