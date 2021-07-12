@@ -81,6 +81,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Deep Lens           | USA         | https://www.deeplens.ai/ |
 | Techcyte            | USA         | https://techcyte.com/ |
 | Crosscope           | USA         | https://www.crosscope.com/ |
+| PixelScientia       | USA         | https://pixelscientia.com/index.html |
 
 
 
