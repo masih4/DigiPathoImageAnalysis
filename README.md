@@ -56,6 +56,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Aignostics          | Germany     | http://www.aignostics.com/|
 | arivis              | Germany     | https://www.arivis.com/|
 | MindPeak            | Germany     | https://www.mindpeak.ai/|
+| precipoint          | Germany     | https://precipoint.com/|
 | 3DHISTECH           | Hungary     | https://www.3dhistech.com/ |
 | Deciphex            | Ireland     | https://deciphex.com/#home|
 | CIRDAN              | Ireland     | https://www.cirdan.com/ |
