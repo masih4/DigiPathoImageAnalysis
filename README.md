@@ -13,6 +13,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Name | University / Institute | Country | Link |
 | :---| --- | --- |  --- |
 | DeepNucleiDetection                                         | Medical University of Vienna                      | Austria    | https://sites.google.com/view/deepnucleidetection/home|
+| Taschner-Mandl group                                        | St.Anna kinderkrebsforschung                      | Austria    | https://www.ccri.at/|
 | Kimia Lab                                                   | University of Waterloo                            | Canada     | https://kimialab.uwaterloo.ca/kimia/|
 | Medical Image Analysis Research Group                       | Simon Fraser University                           | Canada     | https://www.medicalimageanalysis.com/ |
 | Artificial Intelligence in Medicine (AIM) Lab               | University of British Columbia                    | Canada     | https://aimlab.ca/ |
