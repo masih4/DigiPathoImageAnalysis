@@ -15,6 +15,7 @@ To help us to complete/update the list please send us a pull request or write th
 | DeepNucleiDetection                                         | Medical University of Vienna                      | Austria    | https://sites.google.com/view/deepnucleidetection/home|
 | Kimia Lab                                                   | University of Waterloo                            | Canada     | https://kimialab.uwaterloo.ca/kimia/|
 | Medical Image Analysis Research Group                       | Simon Fraser University                           | Canada     | https://www.medicalimageanalysis.com/ |
+| Artificial Intelligence in Medicine (AIM) Lab               | University of British Columbia                    | Canada     | https://aimlab.ca/ |
 | Centre for Computational Biology                            | MINES ParisTech                                   | France     | http://cbio.mines-paristech.fr/welcome-to-the-cbio-wiki |
 | Computational Bioimaging and Bioinformatics                 | Institut de Biologie de l'École Normale Supérieure| France     |https://www.ibens.ens.fr/spip.php?rubrique47 |
 | Biomedical Computer Vision Research Group                   | Heidelberg University                             | Germany    | http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html|
