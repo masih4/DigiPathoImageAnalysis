@@ -61,17 +61,21 @@ To help us to complete/update the list please send us a pull request or write th
 | aiforia             | Finland     | https://www.aiforia.com/ |
 | NEAGEN              | Finland     | http://www.neagen.com/|
 | Primaa              | France      | https://www.primaalab.com/#home |
+| TRIBVN Healtcare    | France      | https://www.tribvn-hc.com/en/ |
+| VitaDX              | France      | https://vitadx.com/en |
 | Aignostics          | Germany     | http://www.aignostics.com/|
 | arivis              | Germany     | https://www.arivis.com/|
 | MindPeak            | Germany     | https://www.mindpeak.ai/|
 | precipoint          | Germany     | https://precipoint.com/|
 | 3DHISTECH           | Hungary     | https://www.3dhistech.com/ |
+| Imsight             | Hongkong    | https://www.imsightmed.com/eindex/about.html |
 | Deciphex            | Ireland     | https://deciphex.com/#home|
 | CIRDAN              | Ireland     | https://www.cirdan.com/ |
 | Ibex                | Israel      | https://ibex-ai.com/|
 | DeePathology        | Israel      | https://deepathology.ai/|
 | nucleai             | Israel      | https://www.nucleaimd.com/|
 | Medmain             | Japan       | https://en.medmain.com/ |
+| Lunit               | South Korea | https://www.lunit.io/en |
 | Qritive             | Singapore   | https://www.qritive.com/ |
 | ContextVision       | Sweden      | https://www.contextvision.com/ |
 | SECTRA              | Sweden      | https://medical.sectra.com/|
@@ -90,6 +94,10 @@ To help us to complete/update the list please send us a pull request or write th
 | Deep Lens           | USA         | https://www.deeplens.ai/ |
 | Techcyte            | USA         | https://techcyte.com/ |
 | Crosscope           | USA         | https://www.crosscope.com/ |
+| Reveal Bioscieces   | USA         | https://www.revealbio.com/|
+| HistoWiz            | USA         | https://home.histowiz.com/#quantitative_image_analysis|
+
+
 
 
 
