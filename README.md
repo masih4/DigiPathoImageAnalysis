@@ -25,6 +25,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Frei Universität Berlin                                     | Research Group Prof. Klopfleisch                  | Germany    | https://www.vetmed.fu-berlin.de/en/einrichtungen/institute/we12/arbeitsgruppen/ag_klopfleisch/index.html|
 | Pattern Recognition Lab                                     | FAU Nürnberg                                      | Germany    | https://lme.tf.fau.de/research/research-groups/digital-pathology-new-approaches-to-the-automated-image-analysis-of-histologic-slides/ |
 | Computational Pathology Research Group                      | Radboud University Medical Center                 | Netherlands| https://www.computationalpathologygroup.eu/ |
+| Computational Pathology Research Group                      | University of Amsterdam                           | Netherlands| https://www.nki.nl/research/research-groups/hugo-horlings/ |
 | Medical Image Analysis                                      | Eindhoven University of Technology                | Netherlands| https://research.tue.nl/en/organisations/medical-image-analysis |
 | Quantitative Imaging and Informatics Laboratory             | Sejong University                                 | South Korea| http://www.kwaklab.net/|
 | VISILAB                                                     | University of Castilla-La Mancha                  | Spain      | https://visilab.etsii.uclm.es/?page_id=39|
