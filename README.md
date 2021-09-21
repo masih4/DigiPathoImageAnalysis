@@ -76,6 +76,7 @@ To help us to complete/update the list please send us a pull request or write th
 | DeePathology        | Israel      | https://deepathology.ai/|
 | nucleai             | Israel      | https://www.nucleaimd.com/|
 | Medmain             | Japan       | https://en.medmain.com/ |
+| Patholyt            | Netherlands | https://www.patholyt.com/ |
 | Lunit               | South Korea | https://www.lunit.io/en |
 | Qritive             | Singapore   | https://www.qritive.com/ |
 | ContextVision       | Sweden      | https://www.contextvision.com/ |
