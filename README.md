@@ -60,6 +60,7 @@ To help us to complete/update the list please send us a pull request or write th
 | TissueGnostics      | Austria     | https://www.tissuegnostics.com/ |
 | KML Vision          | Austria     | https://www.kmlvision.com/ |
 | Allcyte             | Austria     | https://www.allcyte.com/ |
+| Parapixel           | Canada      | https://parapixel.ca/ |
 | VISIOPHARM          | Denmark     | https://visiopharm.com/|
 | aiforia             | Finland     | https://www.aiforia.com/ |
 | NEAGEN              | Finland     | http://www.neagen.com/|
