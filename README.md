@@ -4,7 +4,7 @@
 ## List of academic institutes/companies working on computer-based digital pathology image analysis 
 To help us to complete/update the list please send us a pull request or write the details in issues (name, country, and link), or contact us at amirreza.mahbod@meduniwien.ac.at
 
-![Project Image](https://github.com/masih4/DigiPathoImageAnalysis/blob/master/project_image.jpg)
+![Project Image](https://github.com/masih4/DigiPathoImageAnalysis/blob/master/project_main.jpg)
 
 
 ## List of Academic Groups 
