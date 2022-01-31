@@ -115,3 +115,4 @@ Maintained by:
 
 Useful links:
 * [AI startups in pathology: A meta-review (Novemeber 2020)](https://analogintelligence.com/artificial-intelligence-ai-startups-pathology-venture-meta-review-analysis/)
+* [7 free open source software programs for image analysis of pathology slides (AUGUST 2020)](https://digitalpathologyplace.com/7-free-open-source-software-programs-for-image-analysis-of-pathology-slides/)
