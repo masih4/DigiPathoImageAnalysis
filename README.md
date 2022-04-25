@@ -84,6 +84,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Qritive             | Singapore   | https://www.qritive.com/ |
 | ContextVision       | Sweden      | https://www.contextvision.com/ |
 | SECTRA              | Sweden      | https://medical.sectra.com/|
+| Inify Laboratory    | Sweden      | https://www.inify.com/ |
 | IBM Research        | Switzerland | https://www.zurich.ibm.com/healthcare/|
 | Philips             | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
 | Panakeia            | UK          | https://www.panakeia.ai|
