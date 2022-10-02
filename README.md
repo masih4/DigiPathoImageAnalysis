@@ -102,6 +102,9 @@ To help us to complete/update the list please send us a pull request or write th
 | Crosscope           | USA         | https://www.crosscope.com/ |
 | Reveal Bioscieces   | USA         | https://www.revealbio.com/|
 | HistoWiz            | USA         | https://home.histowiz.com/#quantitative_image_analysis|
+| Genentech           | USA         | https://www.gene.com/|
+| Gilead              | USA         | https://www.gilead.com/|
+
 
 
 
@@ -112,7 +115,6 @@ To help us to complete/update the list please send us a pull request or write th
 Maintained by:
 * [Amirreza Mahbod](https://www.kth.se/profile/amahbod) (contact: amirreza.mahbod@meduniwien.ac.at)
 * [Navid Alemi Koohbanani](https://warwick.ac.uk/study/csde/gsp/eportfolio/directory/pg/u1694087/) 
-* [Simon Graham](https://warwick.ac.uk/fac/sci/mathsys/people/students/2015intake/graham/) 
 
 Useful links:
 * [AI startups in pathology: A meta-review (Novemeber 2020)](https://analogintelligence.com/artificial-intelligence-ai-startups-pathology-venture-meta-review-analysis/)
