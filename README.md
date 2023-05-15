@@ -89,6 +89,7 @@ To help us to complete/update the list please send us a pull request or write th
 | IBM Research                   | Switzerland | https://www.zurich.ibm.com/healthcare/|
 | Philips                        | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
 | Panakeia                       | UK          | https://www.panakeia.ai|
+| Histofy                        | UK          | https://histofy.ai/|
 | Indica Labs                    | USA         | https://www.indicalab.com/ |
 | inspirata                      | USA         | https://www.inspirata.com/solutions/digital-pathology/|
 | mTuitive                       | USA         | https://www.mtuitive.com/pathology.html|
