@@ -61,7 +61,7 @@ To help us to complete/update the list please send us a pull request or write th
 | :---| --- | --- |
 | TissueGnostics                 | Austria     | https://www.tissuegnostics.com/ |
 | KML Vision                     | Austria     | https://www.kmlvision.com/ |
-| Allcyte                        | Austria     | https://www.allcyte.com/ |
+| Exscientia                     | Austria     | https://www.exscientia.ai/ |
 | Parapixel                      | Canada      | https://parapixel.ca/ |
 | Objective Pathology Services   | Canada      | https://www.objectivepathology.com/ |
 | VISIOPHARM                     | Denmark     | https://visiopharm.com/|
