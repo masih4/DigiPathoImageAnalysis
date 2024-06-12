@@ -45,7 +45,9 @@ To help us to complete/update the list please send us a pull request or write th
 | Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center            | USA        | http://thomasfuchslab.org/|
 | Sarder Lab                                                  | University at Buffalo                             | USA        | https://www.acsu.buffalo.edu/~pinakisa/index.html|
 | Institute for Engineering-Driven Medicine                   | Stony Brook University                            | USA        | https://www.stonybrook.edu/commcms/iedm/research/Research_Thrusts/Digital_Pathology.php|
-| Computational Biology Lab, Artificial Intelligence Team     | Lawrence J. Ellison Institute for Transformative Medicine of USC    | USA        | http://www.eitm.org|
+| Computational Biology Lab, Artificial Intelligence Team     |  USC                                              | USA        | http://www.eitm.org|
+| James Zou Research Group                                    | Stanford University                               | USA        | https://www.james-zou.com/|
+
 
 
 
