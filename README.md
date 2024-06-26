@@ -122,8 +122,7 @@ To help us to complete/update the list please send us a pull request or write th
 
 
 Maintained by:
-* [Amirreza Mahbod](https://www.kth.se/profile/amahbod) (contact: amirreza.mahbod@meduniwien.ac.at)
-* [Navid Alemi Koohbanani](https://warwick.ac.uk/study/csde/gsp/eportfolio/directory/pg/u1694087/) 
+* [Amirreza Mahbod](www.linkedin.com/in/amirreza-mahbod) (contact: amirreza.mahbod@dp-uni.ac.at)
 
 Useful links:
 * [AI startups in pathology: A meta-review (Novemeber 2020)](https://analogintelligence.com/artificial-intelligence-ai-startups-pathology-venture-meta-review-analysis/)
