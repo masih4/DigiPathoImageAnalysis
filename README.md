@@ -72,6 +72,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Primaa                         | France      | https://www.primaalab.com/#home |
 | TRIBVN Healtcare               | France      | https://www.tribvn-hc.com/en/ |
 | VitaDX                         | France      | https://vitadx.com/en |
+| inscoper                       | France      | https://www.inscoper.com/ |
 | Aignostics                     | Germany     | http://www.aignostics.com/|
 | arivis                         | Germany     | https://www.arivis.com/|
 | MindPeak                       | Germany     | https://www.mindpeak.ai/|
@@ -96,6 +97,7 @@ To help us to complete/update the list please send us a pull request or write th
 | Panakeia                       | UK          | https://www.panakeia.ai|
 | Histofy                        | UK          | https://histofy.ai/|
 | Indica Labs                    | USA         | https://www.indicalab.com/ |
+| Modella AI                     | USA         | https://www.modella.ai/ |
 | inspirata                      | USA         | https://www.inspirata.com/solutions/digital-pathology/|
 | mTuitive                       | USA         | https://www.mtuitive.com/pathology.html|
 | Roche                          | USA         | https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
