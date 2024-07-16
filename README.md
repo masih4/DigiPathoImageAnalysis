@@ -113,12 +113,7 @@ To help me to complete/update the list please send a pull request or write the d
 | HistoWiz                       | USA         | https://home.histowiz.com/#quantitative_image_analysis|
 | Genentech                      | USA         | https://www.gene.com/|
 | Gilead                         | USA         | https://www.gilead.com/|
-
-
-
-
-
-
+| Discover-Echo                  | USA         | https://discover-echo.com|
 
 
 Maintained by:
