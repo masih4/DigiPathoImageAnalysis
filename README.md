@@ -115,6 +115,8 @@ To help me to complete/update the list please send a pull request or write the d
 | Gilead                         | USA         | https://www.gilead.com/|
 | Discover-Echo                  | USA         | https://discover-echo.com|
 | OWKIN                          | USA         | https://www.owkin.com/|
+| Hist.ai                        | USA         | https://www.hist.ai/|
+
 
 
 Maintained by:
