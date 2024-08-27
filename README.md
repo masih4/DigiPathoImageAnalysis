@@ -62,7 +62,6 @@ To help me to complete/update the list please send a pull request or write the d
 | Name | Country (headquarter) | Link |
 | :---| --- | --- |
 | TissueGnostics                 | Austria     | https://www.tissuegnostics.com/ |
-| KML Vision                     | Austria     | https://www.kmlvision.com/ |
 | Exscientia                     | Austria     | https://www.exscientia.ai/ |
 | Parapixel                      | Canada      | https://parapixel.ca/ |
 | Objective Pathology Services   | Canada      | https://www.objectivepathology.com/ |
@@ -93,6 +92,7 @@ To help me to complete/update the list please send a pull request or write the d
 | SECTRA                         | Sweden      | https://medical.sectra.com/|
 | Inify Laboratory               | Sweden      | https://www.inify.com/ |
 | IBM Research                   | Switzerland | https://www.zurich.ibm.com/healthcare/|
+| KOLAIDO (KML Vision)           | Switzerland     | https://www.kolaido.com/ |
 | Philips                        | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
 | Panakeia                       | UK          | https://www.panakeia.ai|
 | Histofy                        | UK          | https://histofy.ai/|
