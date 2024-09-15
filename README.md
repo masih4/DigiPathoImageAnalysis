@@ -96,6 +96,7 @@ To help me to complete/update the list please send a pull request or write the d
 | Philips                        | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
 | Panakeia                       | UK          | https://www.panakeia.ai|
 | Histofy                        | UK          | https://histofy.ai/|
+| Objective Imaging              | UK          | https://www.objectiveimaging.com/index.php|
 | Indica Labs                    | USA         | https://www.indicalab.com/ |
 | Modella AI                     | USA         | https://www.modella.ai/ |
 | inspirata                      | USA         | https://www.inspirata.com/solutions/digital-pathology/|
