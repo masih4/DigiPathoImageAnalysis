@@ -72,6 +72,7 @@ To help me to complete/update the list please send a pull request or write the d
 | TRIBVN Healtcare               | France      | https://www.tribvn-hc.com/en/ |
 | VitaDX                         | France      | https://vitadx.com/en |
 | inscoper                       | France      | https://www.inscoper.com/ |
+| Tribun Health                  | France      | https://www.tribun.health/homepage |
 | Aignostics                     | Germany     | http://www.aignostics.com/|
 | arivis                         | Germany     | https://www.arivis.com/|
 | MindPeak                       | Germany     | https://www.mindpeak.ai/|
