@@ -15,6 +15,7 @@ To help me to complete/update the list please send a pull request or write the d
 | Medical Image Analysis & Artificial Intelligence (MIAAI)    | Danube Private University                         | Austria    | https://www.dpu-research-miaai.at/|
 | Institute for Pathophysiology and Allergy Research          | Medical University of Vienna                      | Austria    | https://pii.meduniwien.ac.at/en/unsere-abteilungen/institut-fuer-pathophysiologie-und-allergieforschung/|
 | Taschner-Mandl group                                        | St.Anna kinderkrebsforschung                      | Austria    | https://www.ccri.at/|
+| Laboratory of Image Synthesis and Analysis                  | Université Libre de Bruxelles                     | Belgium    | https://lisa.polytech.ulb.be/|
 | Kimia Lab                                                   | University of Waterloo                            | Canada     | https://kimialab.uwaterloo.ca/kimia/|
 | Medical Image Analysis Research Group                       | Simon Fraser University                           | Canada     | https://www.medicalimageanalysis.com/ |
 | Artificial Intelligence in Medicine (AIM) Lab               | University of British Columbia                    | Canada     | https://aimlab.ca/ |
