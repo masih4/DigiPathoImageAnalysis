@@ -41,6 +41,7 @@ To help me to complete/update the list please send a pull request or write the d
 | Biomedical Image Analysis Research                          | University of London                              | UK         | http://www.staff.city.ac.uk/~sbbk034/research.php?idMem=research |
 | Virtual Pathology                                           | university of Leeds                               | UK         | https://www.virtualpathology.leeds.ac.uk/research/analysis/ |
 | Mahmood Lab                                                 | Harvard Medical School                            | USA        | https://faisal.ai/|
+| Center for Artificial Intelligence in Medicine & Imaging    | Stanford University                               | USA        | https://aimi.stanford.edu/|
 | The Yu Lab                                                  | Harvard Medical School                            | USA        | https://yulab.hms.harvard.edu/|
 | Center of Computational Imaging and Personalized Diagnostics| Case Western Reserve University                   | USA        | https://engineering.case.edu/centers/ccipd/|
 | Thomas Fuchs Lab                                            | Memorial Sloan Kettering Cancer Center            | USA        | http://thomasfuchslab.org/|
