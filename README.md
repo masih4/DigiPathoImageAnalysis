@@ -88,7 +88,7 @@ To help me to complete/update the list please send a pull request or write the d
 | nucleai                        | Israel      | https://www.nucleaimd.com/|
 | Medmain                        | Japan       | https://en.medmain.com/ |
 | Evident                        | Japan       | https://www.evidentscientific.com/en/ |
-| Patholyt                       | Netherlands | https://www.patholyt.com/ |
+| Aiosyn                         | Netherlands | https://www.aiosyn.com/ |
 | Lunit                          | South Korea | https://www.lunit.io/en |
 | Qritive                        | Singapore   | https://www.qritive.com/ |
 | ContextVision                  | Sweden      | https://www.contextvision.com/ |
