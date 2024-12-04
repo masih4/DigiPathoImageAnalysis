@@ -49,6 +49,7 @@ To help me to complete/update the list please send a pull request or write the d
 | Institute for Engineering-Driven Medicine                   | Stony Brook University                            | USA        | https://www.stonybrook.edu/commcms/iedm/research/Research_Thrusts/Digital_Pathology.php|
 | Computational Biology Lab, Artificial Intelligence Team     |  USC                                              | USA        | http://www.eitm.org|
 | James Zou Research Group                                    | Stanford University                               | USA        | https://www.james-zou.com/|
+| Hadley Lab                                                  | University of Central Florida                     | USA        | https://www.hadleylab.org/|
 
 
 
