@@ -76,6 +76,7 @@ To help me to complete/update the list please send a pull request or write the d
 | VitaDX                         | France      | https://vitadx.com/en |
 | inscoper                       | France      | https://www.inscoper.com/ |
 | Tribun Health                  | France      | https://www.tribun.health/homepage |
+| QuantaCell                     | France      | https://www.quantacell.com/ |
 | Aignostics                     | Germany     | http://www.aignostics.com/|
 | arivis                         | Germany     | https://www.arivis.com/|
 | MindPeak                       | Germany     | https://www.mindpeak.ai/|
