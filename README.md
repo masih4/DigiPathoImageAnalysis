@@ -64,65 +64,66 @@ To help me to complete/update the list please send a pull request or write the d
 
 | Name | Country (headquarter) | Link |
 | :---| --- | --- |
-| TissueGnostics                 | Austria     | https://www.tissuegnostics.com/ |
-| Exscientia                     | Austria     | https://www.exscientia.ai/ |
-| Parapixel                      | Canada      | https://parapixel.ca/ |
-| Objective Pathology Services   | Canada      | https://www.objectivepathology.com/ |
-| VISIOPHARM                     | Denmark     | https://visiopharm.com/|
-| aiforia                        | Finland     | https://www.aiforia.com/ |
-| NEAGEN                         | Finland     | http://www.neagen.com/|
-| Primaa                         | France      | https://www.primaalab.com/#home |
-| TRIBVN Healtcare               | France      | https://www.tribvn-hc.com/en/ |
-| VitaDX                         | France      | https://vitadx.com/en |
-| inscoper                       | France      | https://www.inscoper.com/ |
-| Tribun Health                  | France      | https://www.tribun.health/homepage |
-| QuantaCell                     | France      | https://www.quantacell.com/ |
-| Aignostics                     | Germany     | http://www.aignostics.com/|
-| arivis                         | Germany     | https://www.arivis.com/|
-| MindPeak                       | Germany     | https://www.mindpeak.ai/|
-| precipoint                     | Germany     | https://precipoint.com/|
-| 3DHISTECH                      | Hungary     | https://www.3dhistech.com/ |
-| Imsight                        | Hongkong    | https://www.imsightmed.com/eindex/about.html |
-| Deciphex                       | Ireland     | https://deciphex.com/#home|
-| CIRDAN                         | Ireland     | https://www.cirdan.com/ |
-| Ibex                           | Israel      | https://ibex-ai.com/|
-| DeePathology                   | Israel      | https://deepathology.ai/|
-| nucleai                        | Israel      | https://www.nucleaimd.com/|
-| Medmain                        | Japan       | https://en.medmain.com/ |
-| Evident                        | Japan       | https://www.evidentscientific.com/en/ |
-| Aiosyn                         | Netherlands | https://www.aiosyn.com/ |
-| Lunit                          | South Korea | https://www.lunit.io/en |
-| Qritive                        | Singapore   | https://www.qritive.com/ |
-| ContextVision                  | Sweden      | https://www.contextvision.com/ |
-| SECTRA                         | Sweden      | https://medical.sectra.com/|
-| Inify Laboratory               | Sweden      | https://www.inify.com/ |
-| IBM Research                   | Switzerland | https://www.zurich.ibm.com/healthcare/|
-| KOLAIDO (KML Vision)           | Switzerland     | https://www.kolaido.com/ |
-| Philips                        | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
-| Panakeia                       | UK          | https://www.panakeia.ai|
-| Histofy                        | UK          | https://histofy.ai/|
-| Objective Imaging              | UK          | https://www.objectiveimaging.com/index.php|
-| Indica Labs                    | USA         | https://www.indicalab.com/ |
-| Modella AI                     | USA         | https://www.modella.ai/ |
-| inspirata                      | USA         | https://www.inspirata.com/solutions/digital-pathology/|
-| mTuitive                       | USA         | https://www.mtuitive.com/pathology.html|
-| Roche                          | USA         | https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
-| PAIGE                          | USA         | https://paige.ai/|
-| PathAI                         | USA         | https://www.pathai.com/|
-| Proscia                        | USA         | https://proscia.com/|
-| Pixel Scientia Labs            | USA         | https://pixelscientia.com/pathology.html|
-| Tempus                         | USA         | https://www.tempus.com/|
-| Deep Lens                      | USA         | https://www.deeplens.ai/ |
-| Techcyte                       | USA         | https://techcyte.com/ |
-| Crosscope                      | USA         | https://www.crosscope.com/ |
-| Reveal Bioscieces              | USA         | https://www.revealbio.com/|
-| HistoWiz                       | USA         | https://home.histowiz.com/#quantitative_image_analysis|
-| Genentech                      | USA         | https://www.gene.com/|
-| Gilead                         | USA         | https://www.gilead.com/|
-| Discover-Echo                  | USA         | https://discover-echo.com|
-| OWKIN                          | USA         | https://www.owkin.com/|
-| Hist.ai                        | USA         | https://www.hist.ai/|
-| Alpenglow Biosciences          | USA         | https://www.alpenglowbiosciences.com/|
+| TissueGnostics                                  | Austria     | https://www.tissuegnostics.com/ |
+| Exscientia                                      | Austria     | https://www.exscientia.ai/ |
+| Parapixel                                       | Canada      | https://parapixel.ca/ |
+| Objective Pathology Services                    | Canada      | https://www.objectivepathology.com/ |
+| VISIOPHARM                                      | Denmark     | https://visiopharm.com/|
+| aiforia                                         | Finland     | https://www.aiforia.com/ |
+| NEAGEN                                          | Finland     | http://www.neagen.com/|
+| Primaa                                          | France      | https://www.primaalab.com/#home |
+| TRIBVN Healtcare                                | France      | https://www.tribvn-hc.com/en/ |
+| VitaDX                                          | France      | https://vitadx.com/en |
+| inscoper                                        | France      | https://www.inscoper.com/ |
+| Tribun Health                                   | France      | https://www.tribun.health/homepage |
+| QuantaCell                                      | France      | https://www.quantacell.com/ |
+| Aignostics                                      | Germany     | http://www.aignostics.com/|
+| arivis                                          | Germany     | https://www.arivis.com/|
+| MindPeak                                        | Germany     | https://www.mindpeak.ai/|
+| precipoint                                      | Germany     | https://precipoint.com/|
+| 3DHISTECH                                       | Hungary     | https://www.3dhistech.com/ |
+| Imsight                                         | Hongkong    | https://www.imsightmed.com/eindex/about.html |
+| Deciphex                                        | Ireland     | https://deciphex.com/#home|
+| CIRDAN                                          | Ireland     | https://www.cirdan.com/ |
+| Ibex                                            | Israel      | https://ibex-ai.com/|
+| DeePathology                                    | Israel      | https://deepathology.ai/|
+| nucleai                                         | Israel      | https://www.nucleaimd.com/|
+| Medmain                                         | Japan       | https://en.medmain.com/ |
+| Evident                                         | Japan       | https://www.evidentscientific.com/en/ |
+| Aiosyn                                          | Netherlands | https://www.aiosyn.com/ |
+| Lunit                                           | South Korea | https://www.lunit.io/en |
+| Qritive                                         | Singapore   | https://www.qritive.com/ |
+| ContextVision                                   | Sweden      | https://www.contextvision.com/ |
+| SECTRA                                          | Sweden      | https://medical.sectra.com/|
+| Inify Laboratory                                | Sweden      | https://www.inify.com/ |
+| IBM Research                                    | Switzerland | https://www.zurich.ibm.com/healthcare/|
+| KOLAIDO (KML Vision)                            | Switzerland | https://www.kolaido.com/ |
+| Philips                                         | UK          | https://www.philips.co.uk/healthcare/solutions/pathology|
+| Panakeia                                        | UK          | https://www.panakeia.ai|
+| Histofy                                         | UK          | https://histofy.ai/|
+| Objective Imaging                               | UK          | https://www.objectiveimaging.com/index.php|
+| National Pathology Imaging Co-operative (NPIC)  | UK          | https://npic.ac.uk/|
+| Indica Labs                                     | USA         | https://www.indicalab.com/ |
+| Modella AI                                      | USA         | https://www.modella.ai/ |
+| inspirata                                       | USA         | https://www.inspirata.com/solutions/digital-pathology/|
+| mTuitive                                        | USA         | https://www.mtuitive.com/pathology.html|
+| Roche                                           | USA         | https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
+| PAIGE                                           | USA         | https://paige.ai/|
+| PathAI                                          | USA         | https://www.pathai.com/|
+| Proscia                                         | USA         | https://proscia.com/|
+| Pixel Scientia Labs                             | USA         | https://pixelscientia.com/pathology.html|
+| Tempus                                          | USA         | https://www.tempus.com/|
+| Deep Lens                                       | USA         | https://www.deeplens.ai/ |
+| Techcyte                                        | USA         | https://techcyte.com/ |
+| Crosscope                                       | USA         | https://www.crosscope.com/ |
+| Reveal Bioscieces                               | USA         | https://www.revealbio.com/|
+| HistoWiz                                        | USA         | https://home.histowiz.com/#quantitative_image_analysis|
+| Genentech                                       | USA         | https://www.gene.com/|
+| Gilead                                          | USA         | https://www.gilead.com/|
+| Discover-Echo                                   | USA         | https://discover-echo.com|
+| OWKIN                                           | USA         | https://www.owkin.com/|
+| Hist.ai                                         | USA         | https://www.hist.ai/|
+| Alpenglow Biosciences                           | USA         | https://www.alpenglowbiosciences.com/|
 
 
 
