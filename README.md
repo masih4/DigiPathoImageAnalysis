@@ -107,6 +107,7 @@ To help me to complete/update the list please send a pull request or write the d
 | Modella AI                                      | USA         | https://www.modella.ai/ |
 | inspirata                                       | USA         | https://www.inspirata.com/solutions/digital-pathology/|
 | mTuitive                                        | USA         | https://www.mtuitive.com/pathology.html|
+| Vizgen                                          | USA         | https://vizgen.com/|
 | Roche                                           | USA         | https://diagnostics.roche.com/global/en/about/roche-tissue-diagnostics.html|
 | PAIGE                                           | USA         | https://paige.ai/|
 | PathAI                                          | USA         | https://www.pathai.com/|
