@@ -103,6 +103,7 @@ To help me to complete/update the list please send a pull request or write the d
 | Histofy                                         | UK          | https://histofy.ai/|
 | Objective Imaging                               | UK          | https://www.objectiveimaging.com/index.php|
 | National Pathology Imaging Co-operative (NPIC)  | UK          | https://npic.ac.uk/|
+| InvivoAX                                        | USA         | https://invivo.ax/|
 | Indica Labs                                     | USA         | https://www.indicalab.com/ |
 | Modella AI                                      | USA         | https://www.modella.ai/ |
 | inspirata                                       | USA         | https://www.inspirata.com/solutions/digital-pathology/|
